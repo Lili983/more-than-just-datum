@@ -1,0 +1,28 @@
+html {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+header {
+  background-color: #ddd;
+}
+
+li {
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+img {
+  max-width: 200px;
+}
+
+table {
+  min-width: 46em;
+}
+
+.i-search {
+  background-image: url("../images/search.svg");
+}
+
+.aside {
+  background-color: #efefef;
+}
